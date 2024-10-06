@@ -17,7 +17,7 @@ This project demonstrates how to compare medical patients based on their medical
 
 ...
 
-## Installation {#installation}
+## Installation 
 
 Create a new virtual environment and install the dependencies:
 
@@ -27,7 +27,7 @@ conda activate patient-analyzer
 pip install -r requirements.txt
 ``` 
 
-## Project Structure {#project-structure}
+## Project Structure 
 ```
 patient-analyzer/
 │
