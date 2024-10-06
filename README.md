@@ -1,7 +1,7 @@
 # Patient Analyzer
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
 
 This project demonstrates how to compare medical patients based on their medical histories using a pre-trained medical BERT model. The goal is to generate embeddings for patients' medical records, reduce their dimensionality using t-SNE, and visualize the relationships among patients.
@@ -18,4 +18,4 @@ This project demonstrates how to compare medical patients based on their medical
 ...
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
