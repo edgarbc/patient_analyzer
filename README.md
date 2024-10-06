@@ -17,5 +17,14 @@ This project demonstrates how to compare medical patients based on their medical
 
 ...
 
+## Project Structure {#project-structure}
+patient-analyzer/
+│
+├── main.py                  # Main script to run the project
+├── README.md                # Project documentation
+├── requirements.txt         # Python dependencies
+└── data/                    # (Optional) Folder for storing any additional datasets or outputs
+
+
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
