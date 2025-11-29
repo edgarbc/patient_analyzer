@@ -71,8 +71,7 @@ def test_compute_tfidf_embeddings():
     assert embeddings.shape[0] == 3, "Should have 3 embeddings"
     assert embeddings.shape[1] > 0, "Embeddings should have features"
     
-    # Check that embeddings are normalized (TF-IDF returns normalized vectors)
-    # Note: TF-IDF doesn't L2-normalize by default, so we just check non-zero
+    # Check that embeddings have non-zero values
     assert np.any(embeddings > 0), "Embeddings should have non-zero values"
 
 
