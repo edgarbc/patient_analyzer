@@ -1,0 +1,11 @@
+patient_id,age,gender,diagnosis_code,text_note
+P001,45,M,E11.9,Patient presents with type 2 diabetes mellitus. HbA1c elevated at 8.2%. Started on metformin 500mg twice daily. Advised dietary modifications and regular exercise.
+P002,62,F,I10,Hypertension management visit. Blood pressure 145/92. Increased lisinopril to 20mg daily. Patient reports occasional headaches. Recommended low sodium diet.
+P003,38,M,J45.20,Moderate persistent asthma with acute exacerbation. Wheezing on auscultation. Prescribed albuterol inhaler PRN and fluticasone maintenance therapy.
+P004,71,F,M81.0,Age-related osteoporosis. Recent DEXA scan shows T-score of -2.8. Started on alendronate weekly. Calcium and vitamin D supplementation recommended.
+P005,55,M,E11.9,Type 2 diabetes follow-up. Good glycemic control with HbA1c 6.8%. Continue current metformin regimen. Annual eye exam recommended.
+P006,48,F,I10,Essential hypertension well controlled on amlodipine 5mg. Blood pressure 128/82. Continue current management. Lipid panel ordered.
+P007,29,M,J45.30,Severe persistent asthma. Multiple ED visits this year. Added montelukast to regimen. Referral to pulmonology for biologics evaluation.
+P008,67,F,E11.65,Type 2 diabetes with diabetic kidney disease. eGFR 52. Adjusted metformin dose. Started on empagliflozin for renal protection.
+P009,52,M,I10,Hypertension with borderline hyperlipidemia. BP 138/88. Added low-dose thiazide diuretic. Lifestyle modifications discussed.
+P010,44,F,M54.5,Chronic low back pain. MRI shows L4-L5 disc bulge. Physical therapy referral. NSAIDs PRN. Avoid heavy lifting.
